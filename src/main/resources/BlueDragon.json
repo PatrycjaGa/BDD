@@ -1,0 +1,38 @@
+{
+    "name": "Super Security",
+    "prices": [
+      {
+        "size": "small",
+        "risk": "low",
+        "price": 200
+      },
+      {
+        "size": "small",
+        "risk": "high",
+        "price": 600
+      },
+
+      {
+        "size": "normal",
+        "risk": "low",
+        "price": 400
+      },
+      {
+        "size": "normal",
+        "risk": "high",
+        "price": 1200
+      },
+
+      {
+        "size": "big",
+        "risk": "low",
+        "price": 2000
+      },
+      {
+        "size": "big",
+        "risk": "high",
+        "price": 6000
+      }
+
+    ]
+}

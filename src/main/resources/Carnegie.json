@@ -1,0 +1,20 @@
+{
+    "name": "Carnegie Hall",
+    "prices": [
+      {
+        "size": "small",
+        "price": 80
+      },
+
+      {
+        "size": "normal",
+        "price": 200
+      },
+
+      {
+        "size": "big",
+        "price": 1000,
+        "minimal_time": 5
+      }
+    ]
+ }
